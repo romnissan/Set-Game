@@ -28,6 +28,6 @@ Set is a real-time card game where players aim to identify sets of three cards t
                           1) time: if set to a number greater than 0, this will be countdown mode with the number was chose.
                                    if set to 0, there is no time. (if there is no set on the table, it will automatic reshuffle.
                                    if set to a negative number, the game will start count and will restart when a set was found.
-                          2) Players- can be change the amount of players
-                          3) AI Players- those are bots that are randomly choosing  a set.
-                          and more...
+  2) Players- can be change the amount of players
+  3) AI Players- those are bots that are randomly choosing  a set.
+   and more...
